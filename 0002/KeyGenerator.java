@@ -25,7 +25,7 @@ public class KeyGenerator {
 		
 		int index = 1;
 		for(String key : keys){
-			System.out.println("µÚ" + index + "¸öÑéÖ¤Âë:" + key);
+			System.out.println("ç¬¬" + index + "ä¸ªéªŒè¯ç :" + key);
 			index++;
 		}
 	}
